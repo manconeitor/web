@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.4">
+    <config>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>FFFF00</corfondo>
+        <corbanda>0080FF</corbanda>
+        <cornavega>0080FF</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>00FFFF</cortexto>
+        <titulo>Ecuaciones lineales</titulo>
+        <autor>hernan jimenez</autor>
+        <informe>1</informe>
+        <botonson>1</botonson>
+        <maximizar>1</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >MUY BIEN</correcto>
+        <incorrecto son="" modo="1" >INTENTALO NUEVAMENTE</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>38</tipo>
+              <imaxe>primary.png</imaxe>
+              <forma>3</forma>
+              <texto><![CDATA[
+<p align="left">
+<font color="#000000" face="Cambria" size="28">SISTEMAS DE ECUACIONES LINEALES</font></p>
+]]></texto>
+              <cfondo>FFFF00</cfondo>
+              <ctexto>00FFFF</ctexto>
+        </paxina>
+        <paxina id="2" >
+              <tipo>11</tipo>
+              <modo>1</modo>
+              <cousa nome="X=6 Y Y=7">images.jpg</cousa>
+              <cousa nome="x=13/9 y y=1/9">download.jpg</cousa>
+              <cousa nome="X=5 y Y=-3">download.png</cousa>
+              <cousa nome="X=4 y Y=0">images.png</cousa>
+              <cousa nome="X=4 y Y=2">images.png</cousa>
+        </paxina>
+        <paxina id="3" >
+              <tipo>11</tipo>
+              <modo>1</modo>
+              <cousa nome="X=6 Y Y=7">images.jpg</cousa>
+              <cousa nome="x=13/9 y y=1/9">download.jpg</cousa>
+              <cousa nome="X=5 y Y=-3">download.png</cousa>
+              <cousa nome="X=4 y Y=0">images.png</cousa>
+              <cousa nome="X=4 y Y=2">images.png</cousa>
+        </paxina>
+        <paxina id="4" >
+              <tipo>11</tipo>
+              <modo>3</modo>
+              <cousa nome="X=6 Y Y=7">images.jpg</cousa>
+              <cousa nome="x=13/9 y y=1/9">download.jpg</cousa>
+              <cousa nome="X=5 y Y=-3">download.png</cousa>
+              <cousa nome="X=3 y Y=0">images.png</cousa>
+              <cousa nome="X=3 y Y=2">images.png</cousa>
+        </paxina>
+        <paxina id="5" >
+              <tipo>11</tipo>
+              <modo>3</modo>
+              <cousa nome="X=6 Y Y=7">images.jpg</cousa>
+              <cousa nome="x=13/9 y y=1/9">download.jpg</cousa>
+              <cousa nome="X=5 y Y=-3">download.png</cousa>
+              <cousa nome="X=3 y Y=0">images.png</cousa>
+              <cousa nome="X=3 y Y=2">images.png</cousa>
+        </paxina>
+        <paxina id="6" >
+              <tipo>19</tipo>
+              <imaxe>images.png</imaxe>
+              <texto><![CDATA[Cada recta tiene su propia pendiente, de acuerdo a la definicion de rectas perpendiculaes, el producto de sus pendientes es igual a :]]></texto>
+              <resp texto="">m1 * m2 = -1</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="7" >
+              <tipo>19</tipo>
+              <imaxe>images.png</imaxe>
+              <texto><![CDATA[Cada recta tiene su propia pendiente, de acuerdo a la definicion de rectas perpendiculaes, el producto de sus pendientes es igual a :]]></texto>
+              <resp texto="">m1 * m2 = -1</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="8" >
+              <tipo>19</tipo>
+              <imaxe>images.png</imaxe>
+              <texto><![CDATA[Como se llaman las rectas que el producto de sus pendientes es igual a -1.]]></texto>
+              <resp texto="">rectas perpendiculares</resp>
+              <modo>0</modo>
+              <forma>1</forma>
+        </paxina>
+        <paxina id="9" >
+              <tipo>4</tipo>
+              <modo>1</modo>
+              <sopa enun="ecuaciones de primer grado, soluciones">unica</sopa>
+              <sopa enun="rectas paralelas,sus pendiente">iguales</sopa>
+              <sopa enun="rectas perpediculares, sus pendientes">menos uno</sopa>
+              <sopa enun="funcion lineal, que representa">linea recta</sopa>
+              <sopa enun="funcion cuadratica, que representa">parabola</sopa>
+              <sopa enun="las rectas no se cruzan">paralelas</sopa>
+              <sopa enun="sistema de suma y recta, otronombre">reduccion</sopa>
+              <sopa enun="sistema de igualar ">igualacion</sopa>
+              <enunciado>1</enunciado>
+              <colorea>1</colorea>
+              <cadro>1</cadro>
+        </paxina>
+        <paxina id="10" >
+              <tipo>3</tipo>
+              <imaxe>download.png</imaxe>
+              <imfondo  trans="45">primary.png</imfondo>
+              <filas>4</filas>
+              <columnas>4</columnas>
+              <reixa>0</reixa>
+            <forma>1</forma>
+        </paxina>
+        <paxina id="11" >
+              <tipo>3</tipo>
+              <imaxe>download.png</imaxe>
+              <imfondo  trans="45">primary.png</imfondo>
+              <filas>4</filas>
+              <columnas>4</columnas>
+              <reixa>0</reixa>
+            <forma>1</forma>
+        </paxina>
+        <paxina id="12" >
+              <tipo>3</tipo>
+              <imaxe>download.png</imaxe>
+              <imfondo  trans="45">primary.png</imfondo>
+              <filas>4</filas>
+              <columnas>4</columnas>
+              <reixa>0</reixa>
+            <forma>1</forma>
+        </paxina>
+        <paxina id="13" >
+              <tipo>3</tipo>
+              <imaxe>download.png</imaxe>
+              <imfondo  trans="45">primary.png</imfondo>
+              <filas>4</filas>
+              <columnas>4</columnas>
+              <reixa>0</reixa>
+            <forma>1</forma>
+        </paxina>
+        <paxina id="14" >
+              <tipo>3</tipo>
+              <imaxe>download.png</imaxe>
+              <imfondo  trans="45">primary.png</imfondo>
+              <filas>4</filas>
+              <columnas>4</columnas>
+              <reixa>0</reixa>
+            <forma>1</forma>
+        </paxina>
+        <paxina id="15" >
+              <tipo>3</tipo>
+              <imaxe>download.png</imaxe>
+              <imfondo  trans="45">primary.png</imfondo>
+              <filas>4</filas>
+              <columnas>4</columnas>
+              <reixa>0</reixa>
+            <forma>1</forma>
+        </paxina>
+        <paxina id="16" >
+              <tipo>3</tipo>
+              <imaxe>download.png</imaxe>
+              <imfondo  trans="45">primary.png</imfondo>
+              <filas>4</filas>
+              <columnas>4</columnas>
+              <reixa>0</reixa>
+            <forma>1</forma>
+        </paxina>
+        <paxina id="17" >
+              <tipo>3</tipo>
+              <imaxe>download.png</imaxe>
+              <imfondo  trans="45">primary.png</imfondo>
+              <filas>4</filas>
+              <columnas>4</columnas>
+              <reixa>0</reixa>
+            <forma>1</forma>
+        </paxina>
+    </libro>
+</lim>
